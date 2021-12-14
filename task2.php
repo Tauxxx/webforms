@@ -1,4 +1,5 @@
 <?
+// 
 use \Bitrix\Main,
 Bitrix\Sale; 
 \Bitrix\Main\Loader::includeModule('sale');
